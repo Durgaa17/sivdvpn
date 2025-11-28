@@ -1,0 +1,10 @@
+auth-nocache
+resolv-retry infinite
+route-method exe
+cipher AES-128-CBC
+nobind
+persist-key
+persist-tun
+remote-cert-tls server
+comp-lzo
+verb 3
