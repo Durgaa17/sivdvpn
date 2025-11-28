@@ -1,0 +1,5 @@
+209.141.62.12 8080
+Host www.speedtest.net
+X-Online-Host www.speedtest.net
+X-Forward-Host www.speedtest.net
+Connection: Keep-Alive
