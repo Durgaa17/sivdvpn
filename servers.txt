@@ -1,0 +1,3 @@
+209.141.62.12:80@www.speedtest.net
+209.141.62.12:443@www.speedtest.net
+209.141.62.12:1194@www.speedtest.net
